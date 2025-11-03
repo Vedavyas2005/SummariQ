@@ -5,6 +5,9 @@ SummariQ is a modern, AI-powered study companion that transforms your study mate
 # Try it out at: 
 https://summariq-qh2pnj4w3clsto67zcgado.streamlit.app/
 
+# Live Demo at:
+https://www.linkedin.com/posts/dasari-vedavyas-a237a4276_ai-streamlit-rag-activity-7391102305028411392-uxqT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAENkfrsBewhxO5oEnTB8wakaMQtN7xtvUSU
+
 ## ✨ Key Features
 Multimodal Summarization: Upload your lecture notes or reference PDFs and get concise or detailed summaries instantly.
 
