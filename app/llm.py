@@ -3,6 +3,7 @@ from config import GEMINI_API_KEY
 
 MODEL = "gemini-2.5-flash"
 import streamlit as st
+GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 
 genai.configure(api_key=GEMINI_API_KEY)
 
